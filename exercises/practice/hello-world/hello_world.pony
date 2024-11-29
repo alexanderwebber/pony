@@ -3,5 +3,4 @@ primitive HelloWorld
     """
     Return the String "Hello World!"
     """
-
-    "Goodbye, Mars!"
+    "Hello, World!"
